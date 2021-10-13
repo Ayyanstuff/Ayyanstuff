@@ -1,5 +1,6 @@
-<h1 align="center">im Ayyan </h1>
-<h3 align="center">im a software developer</h3>
+
+<h3 align="center">im a software developer
+from canada</h3>
 
 - **I’m looking to collaborate on C++**
 
