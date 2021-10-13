@@ -15,17 +15,6 @@
 
 - or a windows 10 sometimes aswell
 
-- some information on me
-
--------------------------------
-
-i like polar bears and orcas
-
-i play roblox shooter games
-
-and use roblox studio sometimes
-
----------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
