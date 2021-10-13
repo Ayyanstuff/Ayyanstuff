@@ -7,8 +7,8 @@
 
 - **tools i use visual studio code xcode and electron** 
 
-- **i use a macbook m1 air for development**
-- **or a windows 10 sometimes aswell**
+ - i use a macbook m1 air for development
+or a windows 10 sometimes aswell
 
 
 <h3 align="left">Connect with me:</h3>
