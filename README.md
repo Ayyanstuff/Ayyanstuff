@@ -1,18 +1,13 @@
 
 <h3 align="center">im a software developer</h3>
 
-
-
-
-
-- **How to reach me ayyanst#0247**
+- **How to reach me @ayyanstuff**
 
 - **languages i use C++ swiftUI javascript and lua**
 
 - **tools i use visual studio code xcode and electron** 
 
 - **i use a macbook m1 air for development**
-
 - **or a windows 10 sometimes aswell**
 
 
