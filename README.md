@@ -1,19 +1,19 @@
 <h1 align="center">Hi Im Ayyan Munir</h1>
 <h3 align="center">I am developer from Canada</h3>
 
-- I’m looking to collaborate on **C++**
+- **I’m looking to collaborate on C++
 
-- Ask me about **anything**
+- **Ask me about anything**
 
-- How to reach me **ayyanst#0247**
+- **How to reach me ayyanst#0247**
 
-- languages i use C++ swiftUI javascript and lua
+- **languages i use C++ swiftUI javascript and lua**
 
-- tools i use visual studio code xcode and electron 
+- **tools i use visual studio code xcode and electron 
 
-- i use a macbook m1 air for development
+- **i use a macbook m1 air for development
 
-- or a windows 10 sometimes aswell
+- **or a windows 10 sometimes aswell
 
 
 <h3 align="left">Connect with me:</h3>
