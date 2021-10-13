@@ -1,10 +1,9 @@
 
-<h3 align="center">im a software developer
-from canada</h3>
+<h3 align="center">im a software developer</h3>
 
-- **I’m looking to collaborate on C++**
 
-- **Ask me about anything**
+
+
 
 - **How to reach me ayyanst#0247**
 
