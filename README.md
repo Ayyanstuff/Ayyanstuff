@@ -1,4 +1,4 @@
-<h1 align="center">Ayyans cool</h1>
+
 <p align="left"> <a href="https://twitter.com/ayyanstuff" target="blank"><img src="https://img.shields.io/twitter/follow/ayyanstuff?logo=twitter&style=for-the-badge" alt="ayyanstuff" /></a> </p>
 
 - im a macOS software developer
