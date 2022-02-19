@@ -4,7 +4,7 @@ im a macOS software developer 👋
 
 - i use a macbook m1 air for development
 
-- tools i use xcode 
+- tools i use xcode - rblx studio and the defualt apple terminal
 
 - languages i use are C++ lua swift
 
