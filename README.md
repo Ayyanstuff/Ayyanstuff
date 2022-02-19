@@ -15,11 +15,15 @@ I only use the ones the a put above.
 ---------------------------------------------------------------------
 
 discord / ayyanst#0247
-roblox / proxisis
+
+roblox account / proxisis
+
 email ayyanstuff@gmail.com - only for important reasons
-twitter @ayyanstuff
+
+twitter / @ayyanstuff
 
 i dont use any other socials and altneritive accounts
+
 anyone who you think is me on another platform is a impersanator 
 
 
