@@ -1,18 +1,24 @@
-im a macOS software developer 👋
-- and a roblox scriper / builder 
------------------------------------
+im a macOS software / application developer
+ and a roblox scriper / builder and asset creator
 
-- i use a macbook m1 air for development
 
-- tools i use xcode - rblx studio and the defualt apple terminal
+i use a macbook m1 air for development
 
-- languages i use are C++ lua swift
+ tools i use - xcode and roblox studio 
 
----------------------------------------------------------------
+ languages i use are C++ lua and swift
 
-- electron js sucks because of it uses alot of computer memory usage
-and could slow down my computer easily - this is why I dont use electron.js
-and why ill never install.
+
+discord / ayyanst#0247
+roblox / proxisis
+email ayyanstuff@gmail.com - only for important reasons
+
+
+i dont use any other socials and altneritive accounts
+anyone who you think is me on another platform is a impersanator 
+
+
+
 
 
 
