@@ -16,7 +16,7 @@ discord / ayyanst#0247
 roblox account / proxisis
 
 email ayyanstuff@gmail.com - only for important reasons
-twitter / @ayyanstuff
+twitter - ayyanstuff
 
 
 
