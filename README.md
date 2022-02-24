@@ -1,13 +1,12 @@
-im a macOS software / application developer
- and a roblox scriper / builder and asset creator
+
+im a roblox lua scriper / builder and asset creator
 
 ---------------------------------------------------------------------
- tools i use - xcode and roblox studio 
 
- languages i use are C++ lua and swift
-I dont use any other tools for programming like visual studio code
+ status currently - more active
+ if you want to contact me or have any questions ask me on twitter or email me
 
-I only use the ones the a put above.
+ I wont be able to respond to every person who has contacted me I apolagize for that
 
 ---------------------------------------------------------------------
 
