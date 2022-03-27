@@ -1,14 +1,14 @@
 im a roblox scripter / asset creator.
 
  status currently less active
- if you you would like to see some of my work check repositories
+ I have some of my work examples linked here
 
 if you need or want to contact me
 
 -----------------------------
 roblox proxisis
 
-ayyanstuff012@gmail.com
+email - ayyanstuff012@gmail.com
 
 
 
